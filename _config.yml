@@ -1,6 +1,6 @@
 theme: minima
-title: study
-author: ma
-description: build my page
+title: Some records during the learning process.
+author: zglmcr
+description: ChuruiMa's personal blogs
 plugins:
   - jekyll-feed
